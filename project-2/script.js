@@ -1,4 +1,6 @@
-
+// Weslley Lima
+// Projeto 2 - DIO Logica de programação
+// 25-Março-2024
 
 
 function calcularNivel(vitorias, derrotas) {
