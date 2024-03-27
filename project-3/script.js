@@ -1,3 +1,7 @@
+// Weslley Lima
+// Projeto 3 - DIO Logica de programação
+// 26-Março-2024
+
 class Heroi {
     constructor(nome, idade, tipo) {
         this.nome = nome;
